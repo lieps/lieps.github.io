@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: lieps/lieps.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -31,9 +31,9 @@ flickr_username: lieps
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: technical blog
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://blog.lieps.kr
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
