@@ -50,9 +50,7 @@ about_profile_image: images/lieps_cj_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Software Engineer.
   
-  
   <mark>iOS</mark> Developer, Linux/Unix <mark>C</mark> Programmer, <mark>Perl</mark> Mongers.
-  
   
   Interested in <mark>Clojure</mark> and <mark>F</mark>unctional <mark>P</mark>rogramming.
 content:
@@ -79,9 +77,9 @@ content:
         quote: >
           -
         description: | # this will include new lines to allow paragraphs
-          CJ Hello(LG Hellovision, currently)
+          CJ Hello (LG HelloVision, currently)
           
-          iOS Developer for tving iOS, iPad Apps, CJ Hello Cable TV Companion App, Viewing iOS App. 
+          iOS Developer for tving iOS, iPad Apps, CJ Hello Companion App for Cable TV, Viewing iOS App. 
 
 # Footer
 footer_show_references: true
