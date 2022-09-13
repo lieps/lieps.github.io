@@ -48,7 +48,12 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Software Engineer. <mark>iOS</mark> Developer, Linux/Unix <mark>C</mark> Programmer, <mark>Perl</mark> Mongers. 
+  Software Engineer.
+  
+  
+  <mark>iOS</mark> Developer, Linux/Unix <mark>C</mark> Programmer, <mark>Perl</mark> Mongers.
+  
+  
   Interested in Clojure and Functional Programming.
 content:
   - title: Experience # Title for the section
