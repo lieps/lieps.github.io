@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>iOS</mark> Developer, Linux/Unix <mark>C</mark> Programmer, <mark>Perl</mark> Mongers.
   
   
-  Interested in Clojure and Functional Programming.
+  Interested in <mark>Clojure</mark> and <mark>F</mark>unctional <mark>P</mark>rogramming.
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -68,10 +68,10 @@ content:
         quote: >
           -
         description: | # this will include new lines to allow paragraphs
-            iOS Developer. 
+            iOS, iPad, tvOS Developer for Wavve apps.
 
       - layout: left
-        title: CJ Hello (LG HelloVision)
+        title: CJ Hello
         # link:
         # link_text: boringcompany.com
         sub_title: iOS Developer
@@ -79,7 +79,8 @@ content:
         quote: >
           -
         description: | # this will include new lines to allow paragraphs
-          iOS Developer for tving, CJ HelloVision Companion, Viewing. 
+          CJ Hello(LG Hellovision, currently)
+          iOS Developer for tving iOS, iPad Apps, CJ Hello Cable TV Companion App, Viewing iOS App. 
 
 # Footer
 footer_show_references: true
