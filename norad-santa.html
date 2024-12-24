@@ -11,10 +11,19 @@
             align-items: center;
             height: 100vh;
             margin: 0;
+            position: relative;
         }
         iframe {
             width: 100%;
             height: 100%;
+            border: none;
+        }
+        .overlay {
+            position: absolute;
+            top: 10px; /* 상단으로 이동 */
+            right: 10px;
+            width: 400px; /* 원래 크기 */
+            height: 232px; /* 원래 크기 */
             border: none;
         }
     </style>
@@ -26,6 +35,11 @@
         mozallowfullscreen 
         webkitallowfullscreen 
         title="NTS Tracking Map">
+    </iframe>
+
+    <iframe class="overlay" 
+        src="https://www.noradsanta.org/countdownClock.html" 
+        title="NTS Countdown Clock">
     </iframe>
 </body>
 </html>
